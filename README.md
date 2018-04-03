@@ -1,2 +1,10 @@
 # Hospital-Management-System
-The purpose of the online system is to solve these complications by creating custom-built software to manage the appointment system. For the receptionist it makes easy to set date and time for the treatment of the patient to the relevant doctor.
+
+Testing Fees
+
+X-Ray : 700.00
+Blood Test : 750.00
+ECG Scanning : 900.00
+BP test : 300.00
+Diabetic Test : 1000.00
+
