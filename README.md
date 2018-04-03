@@ -1,14 +1,10 @@
 # Hospital-Management-System
 
-Appointment Form
+Testing Fees
 
-Patient Name : soujanya
-Age : 21
-Gender : Female
-
-Doctor Name : Satya
-Appointment Time: 1:00 pm
-Token Number : 6
-Prescreption : XYZ
-Fee Amount : 600
+X-Ray : 700.00
+Blood Test : 750.00
+ECG Scanning : 900.00
+BP test : 300.00
+Diabetic Test : 1000.00
 
