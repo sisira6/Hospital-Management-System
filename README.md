@@ -1,2 +1,14 @@
 # Hospital-Management-System
-The purpose of the online system is to solve these complications by creating custom-built software to manage the appointment system. For the receptionist it makes easy to set date and time for the treatment of the patient to the relevant doctor.
+
+Appointment Form
+
+Patient Name : soujanya
+Age : 21
+Gender : Female
+
+Doctor Name : Satya
+Appointment Time: 1:00 pm
+Token Number : 6
+Prescreption : XYZ
+Fee Amount : 600
+
